@@ -2,7 +2,7 @@
 	<br>
 	<br>
 	<br>
-	<img width="500" height="350" src="https://raw.githubusercontent.com/mani1soni/edu_adda/master/logo/edu_adda.png" >
+	<img width="500" height="350" src="https://raw.githubusercontent.com/mani1soni/jenkins-shared-library/master/logo/jenkins.jpeg" >
 	<br>
 	<br>
 	<br>
