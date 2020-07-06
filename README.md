@@ -74,7 +74,7 @@ This is open source jenkins shared library repository. This repository contains 
 ## For more details visit:-
 * [shared-libraries](https://www.jenkins.io/doc/book/pipeline/shared-libraries/)
 
-## Technologie used 
+## Technology used 
 * [groovy](https://groovy-lang.org/)
 
 ## Maintainers
