@@ -21,7 +21,7 @@ This is open source jenkins shared library repository. This repository contains 
 * Fork this repo
 * Call groovy function like following example-->
     ```
-    library identifier: 'general_node-app_template@', retriever: modernSCM(
+    library identifier: 'general_node-app_template@master', retriever: modernSCM(
     [$class: 'GitSCMSource',
      remote: 'Forked Repo URL',
      credentialsId: 'YOUR-Credentials'])
